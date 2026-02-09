@@ -35,7 +35,7 @@ expense-tracker-hp4b.vercel.app
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 expense-tracker/
 ├── index.html
 └── README.md
@@ -43,7 +43,7 @@ expense-tracker/
 
 ---
 
-## 📌 How to Run Locally
+##  How to Run Locally
 1. Download or clone the repository  
 2. Open `index.html` in browser  
    OR  
@@ -51,6 +51,6 @@ expense-tracker/
 
 ---
 
-## 👨‍💻 Author
+## Author
 Your Name
 Suhana B.C
